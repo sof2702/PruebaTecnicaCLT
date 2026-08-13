@@ -1,0 +1,36 @@
+## Archivos de Visual Studio y herramientas locales
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Carpetas de build
+bin/
+obj/
+
+## Base de datos SQLite local
+*.db
+*.db-shm
+*.db-wal
+
+## Archivos de publicación
+publish/
+*.pubxml
+*.pubxml.user
+
+## Logs
+*.log
+
+## Variables de entorno y secretos locales
+.env
+appsettings.Local.json
+appsettings.*.local.json
+
+## NuGet
+*.nupkg
+.nuget/
+
+## Archivos del sistema operativo
+Thumbs.db
+.DS_Store
