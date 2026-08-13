@@ -121,8 +121,3 @@ Se completaron todos los puntos solicitados en la prueba:
 - Patrón CQRS implementado con MediatR, con carpetas separadas de Commands y Queries por módulo
 - Swagger UI configurado con soporte de API Key mediante el botón Authorize
 - Proyecto desarrollado con .NET 10 usando Minimal API
-
-## Qué no quedó implementado
-
-- Tests unitarios o de integración
-- Paginación en los listados
